@@ -12,7 +12,7 @@ export const profile = {
   photoAlt:
     'Professional headshot of Nischal Bhattarai, Mechanical Design Engineer, at an Engineers Australia event',
   summary:
-    'Mechanical Design Engineer and Master in Engineering Management graduate from La Trobe University, with a Bachelor in Mechanical Engineering from Visvesvaraya Technological University, India. 2+ years of experience in CAD drafting, technical documentation, and manufacturing support. Skilled in AutoCAD, SolidWorks, and engineering layouts with strong attention to precision, safety, and process optimisation.',
+    'Mechanical Design Engineer & Master in Engineering Management graduate from La Trobe University, with a Bachelor in Mechanical Engineering from Visvesvaraya Technological University, India. 2+ years of experience in CAD drafting, technical documentation, and manufacturing support. Skilled in AutoCAD, SolidWorks, and engineering layouts with strong attention to precision, safety, and process optimisation.',
   languages: [
     { name: 'Nepali', level: 'Native' },
     { name: 'English', level: 'Professional (PTE 59)' },
